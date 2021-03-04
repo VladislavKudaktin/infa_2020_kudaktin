@@ -1,0 +1,14 @@
+﻿Start=Играть
+Settings=Настройки
+Quit=Выход
+Screen=Экран
+Music=Музыка
+Language=Язык
+On=Вкл.
+Off=Выкл.
+English=Русский
+Score=Очки
+You lose!=Ты проиграл!
+Press ESC to exit to the menu=Нажми ESC чтобы выйти в меню
+RECORDS=рекорды
+enter your name=введите своё имя
